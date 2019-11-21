@@ -1,5 +1,10 @@
-import React from 'react';
-import ReactDOM from 'react-dom';
-import IanTaylor from './components/IanTaylor';
+import React from 'react'
+import ReactDOM from 'react-dom'
+import { BrowserRouter as Router } from "react-router-dom"
+import IanTaylor from './components/IanTaylor'
 
-ReactDOM.render(<IanTaylor />, document.getElementById('root'));
+ReactDOM.render(
+  <Router>
+    <IanTaylor />
+  </Router>
+  , document.getElementById('root'))

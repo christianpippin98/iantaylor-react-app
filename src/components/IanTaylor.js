@@ -1,24 +1,18 @@
-import React, { Component } from 'react'
-import PoemCard from './poem/PoemCard'
-import './IanTaylor.css'
+import React, { Component } from "react"
+import NavBar from "./nav/NavBar"
+import ApplicationViews from "./ApplicationViews"
+
+import "./IanTaylor.css"
 
 class IanTaylor extends Component {
   render() {
     return (
-      <div>
-        <div>
-          <h2>Ian Taylor<br />
-            <small>Personal Writing Journal</small>
-          </h2>
-        </div>
-        <div>
-          <PoemCard />
-          <PoemCard />
-          <PoemCard />
-        </div>
-      </div>
-    );
+      <>
+        <NavBar />
+        <ApplicationViews />
+      </>
+    )
   }
 }
 
-export default IanTaylor;
+export default IanTaylor

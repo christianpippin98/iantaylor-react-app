@@ -1,0 +1,37 @@
+{
+    "poems": [
+        {
+            "id": 1,
+            "name": "Moon",
+            "text": "you are my sun\nno\nyou're better than the sun\nyou are my moon\nyou give me light in the middle of the dark\n\nthe darker my life gets\nthe more I know I need you in it\nthe more your radiance shines\nbut you are so far away"
+        },
+        {
+            "id": 2,
+            "name": "Desano",
+            "text": "gluten stretch and rebound\nflower caked to the ground\nthe scent of marinara waft\nvoices murmur light and soft\nNapoli fa pizza bella\nmy taste buds have found their Cinderella"
+        },
+        {
+            "id": 3,
+            "name": "Ducks",
+            "text": "oh for the courage of a duck\nleap and not look back\nto put life in the hands of luck\noh for the grace of a koi\nsimply be\nto never apologize for having joy\noh for the memory of buildings\nprotect the ones you love\nholding their secrets in your gilding\noh to be and just be\nto know the person I call me\noh for the courage of a duck"
+        }
+    ],
+
+    "shortStories": [
+        {
+            "id": 1,
+            "name": "Beauregard",
+            "text": "hmmm"
+        },
+        {
+            "id": 2,
+            "name": "5 Second Prison",
+            "text": "hmmm"
+        },
+        {
+            "id": 3,
+            "name": "The Harpy's Talons",
+            "text": "hmmm"
+        }
+    ]
+}
